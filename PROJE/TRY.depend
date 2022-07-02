@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1654379595 source:c:\users\mahmu\desktop\dersler\programming languages\proje 2\try\try\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<stdbool.h>
+	<conio.h>
+	<windows.h>
+
